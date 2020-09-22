@@ -30,3 +30,7 @@ services:
        - wordpress       
 volumes:
     db_data: {}
+
+networks:
+  wordpress:
+    external: true    
