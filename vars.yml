@@ -3,7 +3,7 @@ project: Infraestrutura como código
 
 # App Configs
 app_name: wordpress
-git_repo: https://github.com/devinfra-br/stack-monitoramento.git
+git_repo: https://github.com/devinfra-br/wordpress-example.git
 git_branch: master
 docker_network: wordpress
 dst_app: /srv/wordpress
